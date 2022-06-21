@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: 823786eed8d726b44b9fa15167ff1881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7385794147650180098
+    second: rubens_0
+  - first:
+      213: 3751752866545003110
+    second: rubens_1
+  - first:
+      213: -7585665605210766381
+    second: rubens_2
+  - first:
+      213: -159474453802670874
+    second: rubens_3
+  - first:
+      213: -2938640011158496540
+    second: rubens_4
+  - first:
+      213: -1957601104155290845
+    second: rubens_5
+  - first:
+      213: -5436704937838053184
+    second: rubens_6
+  - first:
+      213: -5928399438959127178
+    second: rubens_7
+  - first:
+      213: 3571984602515743695
+    second: rubens_8
+  - first:
+      213: -8005158663105426711
+    second: rubens_9
+  - first:
+      213: -2448878609571920298
+    second: rubens_10
+  - first:
+      213: -6596054526775895280
+    second: rubens_11
+  - first:
+      213: 2901875279515577755
+    second: rubens_12
+  - first:
+      213: -6795709217594216046
+    second: rubens_13
+  - first:
+      213: 7556715236098156683
+    second: rubens_14
+  - first:
+      213: 4858333487126397398
+    second: rubens_15
+  - first:
+      213: 1693969984603720824
+    second: rubens_16
+  - first:
+      213: -4911286743876659874
+    second: rubens_17
+  - first:
+      213: -4996856210650138189
+    second: rubens_18
+  - first:
+      213: -6495314605684975743
+    second: rubens_19
+  - first:
+      213: -7179012411949858901
+    second: rubens_20
+  - first:
+      213: -7591646811033010984
+    second: rubens_21
+  - first:
+      213: -4562154494311956501
+    second: rubens_22
+  - first:
+      213: 2230574147085486089
+    second: rubens_23
+  - first:
+      213: 4405693862051242948
+    second: rubens_24
+  - first:
+      213: -2431249400823026361
+    second: rubens_25
+  - first:
+      213: -3537628438031354498
+    second: rubens_26
+  - first:
+      213: 8547361726776600414
+    second: rubens_27
+  - first:
+      213: -4171415765467821163
+    second: rubens_28
+  - first:
+      213: -5898643830407431881
+    second: rubens_29
+  - first:
+      213: 3070796571236130748
+    second: rubens_30
+  - first:
+      213: 6763814763919140317
+    second: rubens_31
+  - first:
+      213: -1811812872862479105
+    second: rubens_32
+  - first:
+      213: 6927235119998488094
+    second: rubens_33
+  - first:
+      213: -8615479294170544766
+    second: rubens_34
+  - first:
+      213: 901262533719837916
+    second: rubens_35
+  - first:
+      213: -1465671562724866477
+    second: rubens_36
+  - first:
+      213: -5009350030295484867
+    second: rubens_37
+  - first:
+      213: -1655055872749656188
+    second: rubens_38
+  - first:
+      213: -1580772096152865962
+    second: rubens_39
+  - first:
+      213: -3028155989605158508
+    second: rubens_40
+  - first:
+      213: -1372633623638353036
+    second: rubens_41
+  - first:
+      213: 1084902905860974927
+    second: rubens_42
+  - first:
+      213: 4458694038342697526
+    second: rubens_43
+  - first:
+      213: 6131309317502652029
+    second: rubens_44
+  - first:
+      213: 5037903451926735127
+    second: rubens_45
+  - first:
+      213: -3342382867330658661
+    second: rubens_46
+  - first:
+      213: 6323788314712952534
+    second: rubens_47
+  - first:
+      213: 4488456360897617406
+    second: rubens_48
+  - first:
+      213: -245745188847166429
+    second: rubens_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rubens_0
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1991
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbe625ba53608990800000000000000
+      internalID: -7385794147650180098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1991
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae77fba57e01430800000000000000
+      internalID: 3751752866545003110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1794
+        width: 117
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38388925d4ab690800000000000000
+      internalID: -7585665605210766381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1794
+        width: 98
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a75644de69cdf0800000000000000
+      internalID: -159474453802670874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1794
+        width: 62
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead52cba7ad737d0800000000000000
+      internalID: -2938640011158496540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_5
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1794
+        width: 93
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32359e6ea2435d4e0800000000000000
+      internalID: -1957601104155290845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_6
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1794
+        width: 99
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8fc87f9a1fc84b0800000000000000
+      internalID: -5436704937838053184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_7
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1794
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675573ace181abda0800000000000000
+      internalID: -5928399438959127178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1630
+        width: 130
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ad10221d329130800000000000000
+      internalID: 3571984602515743695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_9
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1630
+        width: 108
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac5faeb96f7e090800000000000000
+      internalID: -8005158663105426711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1630
+        width: 122
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656c96a11e5d30ed0800000000000000
+      internalID: -2448878609571920298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_11
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1630
+        width: 118
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5a64fa5b1674a0800000000000000
+      internalID: -6596054526775895280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1438
+        width: 119
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d63022138854820800000000000000
+      internalID: 2901875279515577755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1438
+        width: 98
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f278c87ac0b1a0800000000000000
+      internalID: -6795709217594216046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1438
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88a9645878ded860800000000000000
+      internalID: 7556715236098156683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_15
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1438
+        width: 122
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1cd84e0944c6340800000000000000
+      internalID: 4858333487126397398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_16
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1438
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8a78d9b0328710800000000000000
+      internalID: 1693969984603720824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_17
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1438
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5595214aba97dbb0800000000000000
+      internalID: -4911286743876659874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_18
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1438
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97e7a30c997aab0800000000000000
+      internalID: -4996856210650138189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1290
+        width: 142
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879dbf97c10cd5a0800000000000000
+      internalID: -6495314605684975743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1287
+        width: 143
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafbb935f360f5c90800000000000000
+      internalID: -7179012411949858901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_21
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1287
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc7628927d05a690800000000000000
+      internalID: -7591646811033010984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1287
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7514a8a8ffa0c0800000000000000
+      internalID: -4562154494311956501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1066
+        width: 102
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90843326e5794fe10800000000000000
+      internalID: 2230574147085486089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1066
+        width: 122
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3eea4a93b242d30800000000000000
+      internalID: 4405693862051242948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1066
+        width: 111
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74def8f1d87724ed0800000000000000
+      internalID: -2431249400823026361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_26
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1066
+        width: 126
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7532d3cda1d7eec0800000000000000
+      internalID: -3537628438031354498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_27
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1063
+        width: 131
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57e94364345e9670800000000000000
+      internalID: 8547361726776600414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_28
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1066
+        width: 126
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b83d066772c16c0800000000000000
+      internalID: -4171415765467821163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_29
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1071
+        width: 135
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f30840bec32ea0800000000000000
+      internalID: -5898643830407431881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 839
+        width: 87
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf54063639ad9a20800000000000000
+      internalID: 3070796571236130748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_31
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 907
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd561f901b5eddd50800000000000000
+      internalID: 6763814763919140317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 639
+        width: 106
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc4d81aac52bd6e0800000000000000
+      internalID: -1811812872862479105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ece1bb3ab722060800000000000000
+      internalID: 6927235119998488094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 639
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854b3d8a3baf6880800000000000000
+      internalID: -8615479294170544766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_35
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 622
+        width: 131
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc4db3df7de18c00800000000000000
+      internalID: 901262533719837916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_36
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 639
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356846aaa73e8abe0800000000000000
+      internalID: -1465671562724866477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_37
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 622
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3635a820b63b7ab0800000000000000
+      internalID: -5009350030295484867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_38
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 639
+        width: 119
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487255dd37f0809e0800000000000000
+      internalID: -1655055872749656188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_39
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 723
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65375f16728ff0ae0800000000000000
+      internalID: -1580772096152865962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_40
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 639
+        width: 118
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fc1bdb24d9f5d0800000000000000
+      internalID: -3028155989605158508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_41
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 639
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5748edfc63fce0800000000000000
+      internalID: -1372633623638353036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_42
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 399
+        width: 90
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e1afd1795e0f00800000000000000
+      internalID: 1084902905860974927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_43
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 392
+        width: 119
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632819dca9670ed30800000000000000
+      internalID: 4458694038342697526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_44
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 392
+        width: 138
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ec9c5d659c61550800000000000000
+      internalID: 6131309317502652029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_45
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 392
+        width: 118
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719aec06f7a3ae540800000000000000
+      internalID: 5037903451926735127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_46
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 392
+        width: 126
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8769ad787d91d0800000000000000
+      internalID: -3342382867330658661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_47
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 189
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de4b35a7fb92c750800000000000000
+      internalID: 6323788314712952534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 189
+        width: 103
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd152587433a4e30800000000000000
+      internalID: 4488456360897617406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rubens_49
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 189
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd0818d00f69cf0800000000000000
+      internalID: -245745188847166429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
